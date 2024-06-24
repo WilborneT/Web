@@ -10,3 +10,5 @@ Defect reports of Cart Management и Order Management in YouTrack [Issues (1).xl
 
 Test Run of Cart Management и Order Management in QASE [G7-Express+run+2024_05_17.pdf](https://github.com/WilborneT/Web/files/15369770/G7-Express%2Brun%2B2024_05_17.pdf)
 
+Intercepting the traffic with Charles Proxy - https://github.com/WilborneT/Web/assets/139514566/8b5cccee-d9e7-4395-a3d1-adc77c09ca8c
+
